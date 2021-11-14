@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.content-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 100%;
+    height: 600px;
+    padding: 40px 60px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.section-1{
+    height: 60vh;
+    background-image: url("https://static3.bigstockphoto.com/5/3/4/large2/435023912.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.second-wrap{
+    background: #926339;
+}
+.btn-wrap{
+    position: relative;
+    top:-10px;
+}
+.btn-wrap button{
+    width: 105px;
+height: 25px;
+    background-color: transparent;
+    border: 1px solid #926339;
+    border-radius: 5px;
+    color: #926339;
+    font-size: 10px;
+}
+.text-wrap{
+    color: #926339;
+}
+.text-wrap p{
+    font-size: 10px;
+}
+.content2-wrap{
+   color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.content3-wrap{
+    color:#926339;
+    text-align: center;
+    font-size: 10px;
+}
+.content4-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    width: 30%;
+    font-size: 10px;
+    text-align: center;
+}
+.flex1-wrap{
+    background-color: #926339;
+    color: white;
+}
+.flex2-wrap{
+    color: #926339;
+}
